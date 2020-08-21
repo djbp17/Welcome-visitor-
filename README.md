@@ -1,8 +1,5 @@
 ### Hi, I'm Jay 👋
 
-## Yikes
-
-
 
 Here are some ideas to get you started:
 
@@ -12,4 +9,5 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on my future projects
 - 📫 How to reach me: daven.piloton17@gmail.com
 - ⚡ Fun fact: "I love to look for a difficult problem and solve it"
+
 
